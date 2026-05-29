@@ -4,11 +4,11 @@
 
 The core challenge in multimodal intent recognition is effectively integrating complementary information from text, audio, and video modalities to infer a user’s true intent. However, existing methods typically lack explicit awareness of modality quality, resulting in an inability to dynamically assign fusion weights or resolve cross-modal semantic conflicts, leading to substantial performance degradation under low-quality or heterogeneous modal conditions. To address these limitations, this paper proposes DFMQ-MC, which employs modality quality-aware dynamic fusion and cross-modal semantic consistency constraints to guide the learning of quality-adaptive, semantically aligned discriminative cross-modal features, thereby enabling more robust multimodal intent recognition.
 
-## 2、Run on GPU:
+## 2、Run on GPU
 
 Model runs on GPU by default with cuda:0. This experiment was performed on a 4090 GPU.
 
-## 3、Dependencies：
+## 3、Dependencies
 
 We use anaconda to create python environment:
 
@@ -24,7 +24,7 @@ Install all required libraries:
 pip install -r requirements.txt
 ```
 
-## 4、Usage：
+## 4、Usage
 
 The data can be downloaded through the following links:
 
