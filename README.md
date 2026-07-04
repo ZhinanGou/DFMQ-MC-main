@@ -1,4 +1,4 @@
-<img width="622" height="315" alt="image" src="https://github.com/user-attachments/assets/f91a192f-91f4-49ee-a878-e616f534d4d0" /># DFMQ-MC:Dynamic Fusion Based on Modality Quality and Cross-Modal Semantic Consistency for Multimodal Intent Recognition
+# DFMQ-MC:Dynamic Fusion Based on Modality Quality and Cross-Modal Semantic Consistency for Multimodal Intent Recognition
 
 ## 1、Introduction
 
