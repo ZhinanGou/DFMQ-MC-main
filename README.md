@@ -52,8 +52,8 @@ You can change the parameters in the **configs** folder. The default parameter i
 ## 5、Model
 
 The overview model architecture:
+<img width="1257" height="473" alt="image" src="https://github.com/user-attachments/assets/b7987c7a-b560-483f-ae70-177ce42e201e" />
 
-<img width="1464" height="549" alt="image" src="https://github.com/user-attachments/assets/3e6c8226-3275-48ed-a635-98940edcec31" />
 
 
 ## 6、Experimental Results
